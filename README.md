@@ -4,7 +4,7 @@
 <p>Welcome to the Wander-Lust! This project is a full-stack web application allowing users to search for accommodations, book stays, and host properties. Built using the MERN stack (MongoDB, Express, React, Node.js), the website includes features such as user authentication, property listings, booking management, and reviews.</p>
 <br>
 The application is deployed to Render and can be accessed through the following link: <br></br>
-<a href="https://wander-lust-ko4m.onrender.com">Wander-Lust</a>
+<a href="https://wander-lust-ko4m.onrender.com/listings">Wander-Lust</a>
 </div>
 <h3>Features</h3>
 <div>
